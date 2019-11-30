@@ -1,0 +1,9 @@
+{
+  "name": "tailwindcss-text-crop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "textCrop.js",
+  "keywords": ["tailwindcss", "tailwind"],
+  "author": "Brad Cornes <hello@bradley.dev>",
+  "license": "MIT"
+}
